@@ -242,7 +242,9 @@ Python에는 Data Science를 위한 다양한 오픈소스 모듈이 있습니�
 * Github에 Source Code Push
 
 
-## Windows에서 Docker R Tidyverse 사용 환경 설정 방법
+## Windows에서 Docker R Tidyverse
+
+### 사용 환경 설정 방법
 
 1. WSL2설치, 윈도우 도커 설치 및 도커 데스크탑 실행
 
