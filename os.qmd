@@ -5,7 +5,7 @@ title-slide-attributes:
   data-background-size: contain
   data-background-opacity: "0.5"
 author: " 형환희"
-date: 2024-02-20
+date: 2024-01-23
 format: 
   revealjs:
     slide-number: true
